@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Collage" package="com.sample.collage" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="Collage" />
+	<window width="1350" height="900" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	<haxelib name="haxeui-core" />
+	<haxelib name="haxeui-openfl"/>
+	 
+	<assets path="Assets" rename="assets" /> 
+	
+</project>
